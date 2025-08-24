@@ -1,10 +1,10 @@
-import React from 'react'
+import Header from '@/feature/Header'
 
 export default function Home() {
   return (
-    <div>
-      
-    </div>
+    <>
+      <Header />
+    </>
   )
 }
 
